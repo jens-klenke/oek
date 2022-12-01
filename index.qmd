@@ -1,0 +1,45 @@
+---
+title: "Lehrstuhl für Ökonometrie (UDE)"
+---
+
+Aufgrund der aktuellen technischen Probleme bei den Informationsdiensten der Universität  hat der Lehrstuhl für Ökonometrie vorübergehen eine eigene Homepage erstellt. 
+
+## Kontakt
+
+### Professor
+
+-   [Christoph Hanck](mailto:christoph.hanck@uni-dortmund.de)
+
+### Sekretariat
+
+-   [Ilona Braun](mailto:Ilona.Braun.Uni@gmail.com)
+
+### Akademischer Rat 
+
+-   [Dr. Yannick Hoga](hogayannick@gmail.com) 
+
+### Wissenschaftliche Mitarbeiter
+
+-   [Martin Arnold](mailto:martchriarno@googlemail.com)
+-   [Karolina Gliszczynska](gliszczynska.oek@gmail.com)
+-   [Jens Klenke](mailto:jens.klenke.ude@gmail.com)
+-   [Dr. Till Massing](mailto:tillmassing+oeko@gmail.com)
+-   [Janine Langerbein](mailto:j.langerbein.oek@gmail.com)
+-   [Thilo Reinschlüssel](mailto:rdie_winter2022@protonmail.com)
+
+## Module des Lehrstuhls
+
+Materialien für unserer Kurse finden Sie auf den entsprechenden Kurseiten.  
+
+#### Bachelorveranstaltungen 
+
+-   [Deskriptive Statistik](https://mca91.github.io/Eidoe22/)
+-   [Einführung in die Ökonometrie](https://mca91.github.io/Eidoe22/)
+
+##### Masterveranstaltungen 
+
+-   [Methoden der Ökonometrie](https://github.com/karo93/Methoden2223)
+-   [Recent Developments in Econometrics](https://jens-klenke.github.io/RDIE_WiSe_22/)
+
+
+
