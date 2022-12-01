@@ -2,9 +2,9 @@
 title: "Lehrstuhl für Ökonometrie (UDE)"
 ---
 
-Aufgrund der aktuellen technischen Probleme bei den Informationsdiensten der Universität  hat der Lehrstuhl für Ökonometrie vorübergehen eine eigene Homepage erstellt. 
+Aufgrund der aktuellen technischen Probleme bei den Informationsdiensten der Universität stellt der Lehrstuhl für Ökonometrie vorübergehend eine eigene Homepage bereit.
 
-## Kontakt
+## Team
 
 ### Professor
 
@@ -27,9 +27,9 @@ Aufgrund der aktuellen technischen Probleme bei den Informationsdiensten der Uni
 -   [Janine Langerbein](mailto:j.langerbein.oek@gmail.com)
 -   [Thilo Reinschlüssel](mailto:rdie_winter2022@protonmail.com)
 
-## Module des Lehrstuhls
+## Lehre
 
-Materialien für unserer Kurse finden Sie auf den entsprechenden Kurseiten.  
+Materialien für unsere Kurse finden Sie auf den entsprechenden Kursseiten.  
 
 #### Bachelorveranstaltungen 
 
