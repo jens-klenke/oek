@@ -3,7 +3,7 @@ project:
   output-dir: "docs"
 
 website:
-  title: "OEK"
+  title: "OEK -- Universität Duisburg-Essen"
   navbar:
     right:
       - icon: github
