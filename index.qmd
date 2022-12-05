@@ -41,5 +41,7 @@ Materialien für unsere Kurse finden Sie auf den entsprechenden Kursseiten.
 -   [Methoden der Ökonometrie](https://github.com/karo93/Methoden2223)
 -   [Recent Developments in Econometrics](https://jens-klenke.github.io/RDIE_WiSe_22/)
 
+## Links 
 
-
+-   [Universität Duisburg-Essen](https://www.uni-due.org/){target="_blank"}
+-   [Fakultät für Wirtschaftswissenschaften](https://wiwi-uni-due.de){target="_blank"}

@@ -3,8 +3,13 @@ project:
   output-dir: "docs"
 
 website:
-  title: "OEK -- Universität Duisburg-Essen"
+  title: "OEK"
   navbar:
+    left:
+      - href: https://www.uni-due.org
+        text: "UDE"
+      - href: https://wiwi-uni-due.de/
+        text: "WIWI Fakultät"
     right:
       - icon: github
         href: https://github.com/jens-klenke
