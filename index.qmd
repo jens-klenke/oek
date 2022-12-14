@@ -16,12 +16,12 @@ Aufgrund der aktuellen technischen Probleme bei den Informationsdiensten der Uni
 
 ### Akademischer Rat 
 
--   [Dr. Yannick Hoga](hogayannick@gmail.com) 
+-   [Dr. Yannick Hoga](mailto:hogayannick@gmail.com) 
 
 ### Wissenschaftliche Mitarbeitende
 
 -   [Martin Arnold](mailto:martchriarno@googlemail.com)
--   [Karolina Gliszczynska](gliszczynska.oek@gmail.com)
+-   [Karolina Gliszczynska](mailto:gliszczynska.oek@gmail.com)
 -   [Jens Klenke](mailto:jens.klenke.ude@gmail.com)
 -   [Dr. Till Massing](mailto:tillmassing+oeko@gmail.com)
 -   [Janine Langerbein](mailto:j.langerbein.oek@gmail.com)
